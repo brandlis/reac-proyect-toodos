@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://brandlis.github.io/proyec-todos",
+  "homepage": "/Users/USER/proyecto/proyecttodo/curso-react-intro/build/",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
