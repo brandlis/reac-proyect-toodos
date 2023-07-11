@@ -1,4 +1,4 @@
-import EmptyImg from "./assets/fndactividad.jpg";
+import EmptyImg from "./assets/fndactividad.png";
 import "./emptytodos.css";
 
 export function EmptyTodos() {

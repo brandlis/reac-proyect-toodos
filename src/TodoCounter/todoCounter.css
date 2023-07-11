@@ -1,11 +1,21 @@
 .TodoCounter {
-    font-size: 24px;
+    font-size: 20px;
     text-align: center;
     margin: 0;
-    padding: 48px;
+    padding: 10px;
     font-weight: normal;
 }
 
 .TodoCounter span {
     font-weight: bold;
+    font-size: 40px;
+    padding-left: 10px;
+    font-family: cursive;
+}
+
+.contador {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }

@@ -9,8 +9,12 @@ export function TodoCounter() {
   return (
     <div>
       <h1 className="TodoCounter">
-        Has completado <span>{completedTodos}</span> de
-        <span> {totalTodos}</span> TODOs
+        <p className="contador">
+          Pendientes <span>{totalTodos}</span>
+        </p>
+        <p className="contador">
+          Completadas <span>{completedTodos}</span>
+        </p>
       </h1>
     </div>
   );
