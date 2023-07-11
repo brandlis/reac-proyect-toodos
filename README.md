@@ -1,11 +1,8 @@
-Repositorio base del Curso de Introducción a React.js en Platzi
-¡Hola, Platzinauta!
+BIENVENIDO 😀
 
-En este repositorio encontrarás el código de todas las clases del Curso de Introducción a React.js. Para empezar solo debes clonar este repositorio (git clone), instalar sus dependencias (npm i) y ejecutar la aplicación (npm start).
+Puedes acceder al proyecto desplegado en vercel dando click a este enlace reac-proyect-toodos.vercel.app
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
-
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+Gracias por visitarme.
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
