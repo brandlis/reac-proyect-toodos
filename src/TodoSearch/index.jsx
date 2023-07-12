@@ -9,7 +9,7 @@ export function TodoSearch() {
   return (
     <input
       className="TodoSearch"
-      placeholder="Buscar TODOs"
+      placeholder="Buscar Tareas"
       value={searchValue}
       onChange={(e) => {
         setSearchValue(e.target.value);

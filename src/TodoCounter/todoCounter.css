@@ -1,21 +1,25 @@
-.TodoCounter {
-    font-size: 20px;
+.counter_todos {
     text-align: center;
+    font-size: 22px;
+    font-family: 'Chela One', cursive;
+}
+
+.counter_todos p {
     margin: 0;
-    padding: 10px;
-    font-weight: normal;
-}
-
-.TodoCounter span {
-    font-weight: bold;
-    font-size: 40px;
-    padding-left: 10px;
-    font-family: cursive;
-}
-
-.contador {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+}
+
+
+.counter_todos img {
+    width: 50px;
+}
+
+.counter_todos span {
+    position: relative;
+    top: -10px;
+    padding: 5px;
+    font-size: 50px;
+    color: rgb(190, 190, 140);
 }
