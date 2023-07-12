@@ -1,6 +1,6 @@
 BIENVENIDO 😀
 
-Puedes acceder al proyecto desplegado en vercel dando click a este enlace reac-proyect-toodos.vercel.app
+Puedes acceder al proyecto desplegado en vercel ingresando a este enlace reac-proyect-toodos.vercel.app
 
 Gracias por visitarme.
 
